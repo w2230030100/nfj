@@ -1,0 +1,20 @@
+{
+  "name": "nfj",
+  "version": "1.0.1",
+  "description": "一个自己经常用到的工具集",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nfj"
+  ],
+  "author": {
+    "name": "w2230030100"
+  },
+  "license": "ISC",
+  "readme": "ERROR: No README data found!",
+  "_id": "nfj@1.0.0",
+  "_shasum": "58b45f23ece9308d8b5513b46f0acb4fbd286308",
+  "_from": "nfj@*"
+}
