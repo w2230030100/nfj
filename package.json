@@ -1,6 +1,6 @@
 {
   "name": "nfj",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "一个自己经常用到的工具集",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,10 @@
   "keywords": [
     "nfj"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/w2230030100/nfj.git"
+  },
   "author": {
     "name": "w2230030100"
   },
